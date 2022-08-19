@@ -37,7 +37,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/uswa-arshad/uswa-arshad/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/uswa-arshad/uswa-arshad/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 Profile Readme Generator
